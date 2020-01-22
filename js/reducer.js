@@ -19,4 +19,4 @@ function render() {
   document.body.textContent = state.count;
 }
 
-dispatch({ type: 'beef' })
+dispatch({ type: '@@INIT' })
