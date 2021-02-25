@@ -18,4 +18,4 @@ function dispatch(action){
   render()
 }
 
-// render()
+render()
